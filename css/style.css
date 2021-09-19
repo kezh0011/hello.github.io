@@ -319,6 +319,7 @@ body {
   right: 0;
   height: 40px;
 }
+/**
 #header:before {
   top: 0;
   background: -webkit-linear-gradient(rgba(0,0,0,0.2), transparent);
@@ -326,13 +327,15 @@ body {
   background: -ms-linear-gradient(rgba(0,0,0,0.2), transparent);
   background: linear-gradient(rgba(0,0,0,0.2), transparent);
 }
+
 #header:after {
   bottom: 0;
   background: -webkit-linear-gradient(transparent, rgba(0,0,0,0.2));
   background: -moz-linear-gradient(transparent, rgba(0,0,0,0.2));
   background: -ms-linear-gradient(transparent, rgba(0,0,0,0.2));
   background: linear-gradient(transparent, rgba(0,0,0,0.2));
-}
+}s
+**/
 #header-outer {
   height: 100%;
   position: relative;
